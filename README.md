@@ -8,22 +8,21 @@
 </p>
 
 ## 📒 Descrição
-Este e-book de 6 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 5 páginas explora o impacto revolucionário das IAs generativas em nosso cotidiano e como elas estão moldando o futuro da humanidade.
 
 A obra apresenta uma abordagem provocativa sobre um fenômeno pouco compreendido: as alucinações das inteligências artificiais — erros sutis que, quando ignorados, podem gerar caos em escala global.
 
-As IAs generativas (como GPT, DALL·E e outras) não “sabem” a verdade. Elas aprendem padrões de linguagem e imagens a partir de grandes volumes de dados.
-Quando recebem uma pergunta, elas:
+> As IAs generativas (como GPT, DALL·E e outras) não “sabem” a verdade. Elas aprendem padrões de linguagem e imagens a partir de grandes volumes de dados.  
+> Quando recebem uma pergunta, elas:  
+> 1. **Buscam padrões** semelhantes ao que já aprenderam;  
+> 2. **Geram respostas prováveis**, com base nesses padrões;  
+> 3. Mas, quando não há informação suficiente, **improvisam** — e é nesse ponto que nascem as **alucinações**.  
+>
+> Este e-book convida você a refletir:  
+> 👉 O que acontece quando as máquinas passam a acreditar em suas próprias mentiras?  
+> 👉 E quando nós, humanos, deixamos de perceber a diferença entre o real e o gerado?
 
-Buscam padrões semelhantes ao que já aprenderam;
-
-Geram respostas prováveis, com base nesses padrões;
-
-Mas, quando não há informação suficiente, improvisam — e é nesse ponto que nascem as alucinações.
-
-Este e-book convida você a refletir:
-👉 O que acontece quando as máquinas passam a acreditar em suas próprias mentiras?
-👉 E quando nós, humanos, deixamos de perceber a diferença entre o real e o gerado?
+---
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
